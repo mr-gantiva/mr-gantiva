@@ -6,6 +6,7 @@
 ## ✨ Find me in other places
 - In twitter [@Ivancho22v]([twitter.com/LeoCode0](https://twitter.com/Ivancho22v))
 - In Linkedin [Iván Vargas](https://www.linkedin.com/in/ivan-vargas-gantiva-developer/)
+-In Notion [mr-gantiva Notion](https://www.notion.so/mr-gantiva/)
 
 ## 💪🏻 My Top 3 projects
 My top 3 projects in web development
@@ -13,6 +14,8 @@ My top 3 projects in web development
 - [Barberia_Alura](https://mr-gantiva.github.io/barberia-alura/)
 - [Proyecto_restaurante](https://mr-gantiva.github.io/proyecto-restaurante/)
 - [Encriptador_texto](https://mr-gantiva.github.io/encriptador-texto/)
+
+##
 
 ## 💻 Tecnologies that I use
 
