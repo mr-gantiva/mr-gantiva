@@ -1,4 +1,6 @@
-## 👋🏻 Hello there!, I'm Iván Vargas
+## 👋🏻 
+![giphy](https://user-images.githubusercontent.com/42701736/195340655-af167d94-ea88-4976-99dc-7fcec3382411.gif)
+Hello there!, I'm Iván Vargas
 <p><em>Fullstack Developer</em></p>
 
 ## ✨ Find me in other places
