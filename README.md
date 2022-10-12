@@ -3,7 +3,7 @@
 
 ## ✨ Find me in other places
 - In twitter [@Ivancho22v]([twitter.com/LeoCode0](https://twitter.com/Ivancho22v))
-- In Linkedin [Iván Vargas]([https://www.linkedin.com/in/leonardo-espinoza/](https://www.linkedin.com/in/ivan-vargas-gantiva-developer/))
+- In Linkedin [Iván Vargas]([https://www.linkedin.com/in/ivan-vargas-gantiva-developer/])
 
 ## 💪🏻 My Top 3 projects
 My top 3 projects in web development
