@@ -1,4 +1,4 @@
-## 👋🏻 Hey!, I'm Iván Vargas
+## 👋🏻 Hello there!, I'm Iván Vargas
 <p><em>Fullstack Developer</em></p>
 
 ## ✨ Find me in other places
