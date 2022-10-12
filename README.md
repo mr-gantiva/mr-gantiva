@@ -6,7 +6,7 @@
 ## ✨ Find me in other places
 - In twitter [@Ivancho22v]([twitter.com/LeoCode0](https://twitter.com/Ivancho22v))
 - In Linkedin [Iván Vargas](https://www.linkedin.com/in/ivan-vargas-gantiva-developer/)
--In Notion [mr-gantiva Notion](https://www.notion.so/mr-gantiva/)
+- In Notion [mr-gantiva Notion](https://www.notion.so/mr-gantiva/)
 
 ## 💪🏻 My Top 3 projects
 My top 3 projects in web development
