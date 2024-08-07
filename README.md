@@ -11,7 +11,7 @@
 ## 💪🏻 My Top 3 projects
 My top 3 projects in web development
 
-- [Barberia_Alura](https://mr-gantiva.github.io/barberia-alura/)
+- [Blog Frontend con SASS](https://mr-gantiva.github.io/blog-frontend-sass/)
 - [Proyecto_restaurante](https://mr-gantiva.github.io/proyecto-restaurante/)
 - [Encriptador_texto](https://mr-gantiva.github.io/encriptador-texto/)
 
