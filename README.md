@@ -1,7 +1,7 @@
 ## 👋🏻 Hello there!, I'm Iván Vargas
 ![giphy](https://user-images.githubusercontent.com/42701736/195340655-af167d94-ea88-4976-99dc-7fcec3382411.gif)
 
-<p><em>Fullstack Developer</em></p>
+<p><em>Frontend Developer</em></p>
 
 ## ✨ Find me in other places
 - In twitter [@Ivancho22v]([twitter.com/LeoCode0](https://twitter.com/Ivancho22v))
