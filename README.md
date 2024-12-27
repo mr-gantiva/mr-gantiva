@@ -3,6 +3,13 @@
 
 <p><em>Frontend Developer</em></p>
 
+## 💼 Work Experience
+I am currently working as a Web Developer for an advertising agency.
+
+## 🎓 Education
+- Ingenieria Informatica - INSTITUTO PROFESIONAL AIEP
+- Desarrollo de aplicaciones frontend Trainee - DESAFIO LATAM
+
 ## ✨ Find me in other places
 - In twitter [@Ivancho22v]([twitter.com/LeoCode0](https://twitter.com/Ivancho22v))
 - In Linkedin [Iván Vargas](https://www.linkedin.com/in/ivan-vargas-gantiva-developer/)
